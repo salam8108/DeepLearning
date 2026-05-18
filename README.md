@@ -1,4 +1,4 @@
-# Deep Learning Projekt – Ansiktsuttryck
+# Deep Learning Projekt – Klassificera ansiktsuttryck med neurala nätverk
 
 Detta projekt använder en CNN-modell för att klassificera ansiktsuttryck från bilder.
 
